@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Woramate Sukcharoen
 ===========================================================================================================================================
 
-Dec sec ops
+Front End Back End
+(กําลังสนใจ Dev Sec Ops)
 -------------------
 
 * 🌍  I'm based in Chingmai,Thailand
